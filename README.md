@@ -13,4 +13,4 @@ Future versions of the board will also include a partially-read-only ([24AA02E48
 
 ## Getting your own
 You can either just order the PCB and assemble it yourself,
-Or you can support me, and buy it on ([Tindie](https://www.tindie.com/products/netcubesystemsat/stm32-ethernet-board/))
+or you can support me and buy it on ([Tindie](https://www.tindie.com/products/netcubesystemsat/stm32-ethernet-board/))
